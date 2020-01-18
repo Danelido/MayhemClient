@@ -1,0 +1,13 @@
+TODO:
+
+Chat bubbles:
+ in playerMP do some string function (rendering) and display it on screen, if the same person says another thing while the string is rendered,
+ delete that and render the new one. Maybe with an array list? Maybe with a simple boolean? 
+ Call the function from the client (update Chat) 
+
+ Settings window in-game:
+ Enable music,
+ enable stuff like: display health regeneration or mana regeneration etc. 
+ save these settings in a text file for future purposes. 
+ 
+ Make a nicer map?

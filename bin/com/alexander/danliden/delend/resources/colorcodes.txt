@@ -1,0 +1,5 @@
+33119c - light floor
+130639 - dark floor
+e54100 - crate
+6c6c6c- wall top
+8b8b8b- wall
